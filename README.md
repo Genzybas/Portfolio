@@ -17,12 +17,17 @@ I am Samuel Bassey, a web developer with a passion for creating intuitive and im
 
 ### Projects
 
+- **Project 1: Movies Box (Internship)**
+  - Description: Immerse yourself in the world of entertainment with Movies Box, a movie-centric platform designed to elevate the cinematic experience. From browsing the latest releases to exploring in-depth film information, Movies Box brings the magic of movies to your fingertips.
+  - Technologies Used: HTML, CSS, JavaScript, TypeScript
+  - [Movies Box](https://hn-gx-movies-box.vercel.app/)
+
 - **Project 1: Kextraco site**
   - Description: A dynamic platform crafted to catalyze your digital journey. A comprehensive solution designed to empower tech companies in navigating the complexities of the digital landscape.
   - Technologies Used: HTML, CSS, Bootstrap, JavaScript
   - [kextraco](https://github.com/Genzybas/Kextraco/)
 
-- **Project 2: [Foodsite]**
+- **Project 2: Foodsite**
   - Description: From the smooth transitions to the crisp imagery, our goal was to make visitors feel like they had stepped into a culinary haven.
   - Technologies Used: HTML, CSS, JavaScript
   - [Foodsite](https://food-site-omega.vercel.app/)
