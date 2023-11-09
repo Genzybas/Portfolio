@@ -20,7 +20,7 @@ I am Samuel Bassey, a web developer with a passion for creating intuitive and im
 - **Project 1: Kextraco site**
   - Description: A dynamic platform crafted to catalyze your digital journey. A comprehensive solution designed to empower tech companies in navigating the complexities of the digital landscape.
   - Technologies Used: HTML, CSS, Bootstrap, JavaScript
-  - [portfolio](https://github.com/Genzybas/Kextraco/)
+  - [kextraco](https://github.com/Genzybas/Kextraco/)
 
 - **Project 2: [Foodsite]**
   - Description: From the smooth transitions to the crisp imagery, our goal was to make visitors feel like they had stepped into a culinary haven.
@@ -35,17 +35,17 @@ I am Samuel Bassey, a web developer with a passion for creating intuitive and im
 - **Project 4: Tour site**
   - Description: Embark on a virtual journey with ExploreVista Tours, a captivating travel website designed to ignite wanderlust and simplify the exploration of breathtaking destinations. From immersive itineraries to seamless booking experiences, ExploreVista Tours invites users to discover the world's wonders with a click..
   - Technologies Used: HTML, CSS, JavaScript
-  - [portfolio](https://tour-steel.vercel.app/)
+  - [Tour](https://tour-steel.vercel.app/)
 
-- **Project 5: Huddle**
+- **Project 5: Huddles**
   - Description: Transform the way teams collaborate with HuddleHub, a dynamic platform that fosters seamless communication and synergy. HuddleHub brings together teams, projects, and ideas in a centralized space, enhancing productivity and creating a collaborative environment for your organization..
   - Technologies Used: HTML, CSS, JavaScript
-  - [portfolio](https://huddles-six.vercel.app/)
+  - [Huddles](https://huddles-six.vercel.app/)
     
 - **Project 6: Restaurant Website**
   - Description: Savor the experience of Restaurant, a restaurant website that tantalizes taste buds and delivers a feast for the senses. This responsive and visually engaging site seamlessly blends culinary artistry with cutting-edge technology, inviting patrons to explore menus, make reservations, and immerse themselves in the delectable world of restaurant.
   - Technologies Used: HTML, CSS, JavaScript
-  - [portfolio](https://restaurant-ten-ecru.vercel.app/)
+  - [Restaurant](https://restaurant-ten-ecru.vercel.app/)
  
 
 ...
@@ -68,10 +68,10 @@ I am Samuel Bassey, a web developer with a passion for creating intuitive and im
   
 ### Contact Information
 
-- **Email:** [kextracol@gmail.com]
-- **LinkedIn:** [https://linked.com/in/samuel-bassey-3a382230]
-- **GitHub:** [(https://github.com/Genzybas/)]
-- **Portfolio Website:** [https://github.com/Genzybas/Portfolio/]
+- **Email:** kextracol@gmail.com
+- **LinkedIn:** https://linked.com/in/samuel-bassey-3a382230
+- **GitHub:** https://github.com/Genzybas/
+- **Portfolio Website:** https://github.com/Genzybas/Portfolio/
 
 ## How to Reach Me
 
@@ -79,4 +79,4 @@ I'm always open to new opportunities and collaborations. If you have any questio
 
 Thank you for visiting my portfolio!
 
-[Samuel Bassey]
+Samuel Bassey
